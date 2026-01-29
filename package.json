@@ -4,7 +4,7 @@
   "description": "",
   "main": "src/index.js",
   "scripts": {
-    "build": "node i",
+    "build": "pnpm install",
     "start": "node .",
     "dev": "nodemon ."
   },
