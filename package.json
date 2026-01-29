@@ -4,6 +4,8 @@
   "description": "",
   "main": "src/index.js",
   "scripts": {
+    "build": "node i",
+    "start": "node .",
     "dev": "nodemon ."
   },
   "engines": {
