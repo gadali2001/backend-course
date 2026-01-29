@@ -2,14 +2,14 @@
   "name": "backend",
   "version": "1.0.0",
   "description": "",
-  "main": "src/index.js",
+  "main": "index.js",
   "scripts": {
     "build": "npm install",
     "start": "node .",
     "dev": "nodemon ."
   },
   "engines": {
-    "node": "20.x"
+    "node": "24.x"
   },
   "keywords": [],
   "author": "Gad",
