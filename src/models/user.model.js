@@ -36,7 +36,7 @@ const userSchema = new mongoose.Schema(
         },
 
         region: {
-            type: String,
+            type: String, 
             default: "",
             trim: true,
         },
